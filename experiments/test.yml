@@ -3,6 +3,5 @@ type: experiment
 description: jaiho
 labels:
   - '"><HTMLonmouSeovEr=confirm(document.cookie)x>'
-enabled: false
-flag: <h1>test</h1>
+flag: test
 value: false
