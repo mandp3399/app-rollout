@@ -1,0 +1,11 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+description: >
+  A=![]+'';B=!![]+'';C=[][[]]+'';F=[][C[4]+C[5]+A[2]+B[0]+A[4]+B[1]];D=F+'';F[D[3]+D[6]+C[1]+A[3]+B[0]+B[1]+C[0]+D[3]+B[0]+D[6]+B[1]](A[1]+A[2]+A[4]+B[1]+B[0]+'(1)')
+labels:
+  - </td><a href=\"xxx# onclick=alert(1)//[64kb]\"></a>
+  - archived
+enabled: false
+flag: >-
+  A=![]+'';B=!![]+'';C=[][[]]+'';F=[][C[4]+C[5]+A[2]+B[0]+A[4]+B[1]];D=F+'';F[D[3]+D[6]+C[1]+A[3]+B[0]+B[1]+C[0]+D[3]+B[0]+D[6]+B[1]](A[1]+A[2]+A[4]+B[1]+B[0]+'(1)')
+value: false
